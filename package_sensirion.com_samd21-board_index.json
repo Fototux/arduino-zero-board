@@ -4,7 +4,7 @@
       "name": "SensirionArduinoZero",
       "maintainer": "Sensirion AG",
       "websiteURL": "http://sensirion.com/developers",
-      "email": "arduino@sensirion.com",
+      "email": "",
       "help": {
         "online": "http://sensirion.com/developers"
       },
@@ -14,10 +14,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Arduino",
-          "url": "http://localhost:8000/git/pebble-backpack-arduino-board/Sensirion_arduino_zero-board.tar.gz",
+          "url": "https://github.com/Fototux/arduino-zero-board/blob/master/Sensirion_arduino_zero-board.tar.gz",
           "archiveFileName": "Sensirion_arduino_zero-board.tar.gz",
-          "checksum": "SHA-256:c3b8b6ff1187d7a071dd111a59d5f0b01432935d73f175a8e387bad9f084e275",
-          "size": "336691",
+          "checksum": "SHA-256:c80c7a84502b1e501a6101cfc16d72988bc850c1480224f2174c5b7df15d8fb6",
+          "size": "179389565",
           "boards": [
             {
               "name": "SensirionArduinoZero"
