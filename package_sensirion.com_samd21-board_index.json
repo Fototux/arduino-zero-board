@@ -16,7 +16,7 @@
           "category": "Arduino",
           "url": "https://github.com/Fototux/arduino-zero-board/raw/master/Sensirion_arduino_zero-board.tar.gz",
           "archiveFileName": "Sensirion_arduino_zero-board.tar.gz",
-          "checksum": "SHA-256:c8a381e8608e4811042083c2e1ee4b0fa8931317edc4edde1a82274488cbeb49",
+          "checksum": "SHA-256:3953f8e644e0583cc42af372eb594411b8339de89093a7fd0f597137da7fd917",
           "size": "403941",
           "boards": [
             {
