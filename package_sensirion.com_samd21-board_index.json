@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Arduino",
-          "url": "https://github.com/Fototux/arduino-zero-board/blob/master/Sensirion_arduino_zero-board.tar.gz?raw=true",
+          "url": "https://github.com/Fototux/arduino-zero-board/raw/master/Sensirion_arduino_zero-board.tar.gz",
           "archiveFileName": "Sensirion_arduino_zero-board.tar.gz",
           "checksum": "SHA-256:c8a381e8608e4811042083c2e1ee4b0fa8931317edc4edde1a82274488cbeb49",
           "size": "403941",
